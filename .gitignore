@@ -1,0 +1,7 @@
+imgtool/__pycache__
+imgtool/__test__
+*.pyc
+*.pyo
+*.png
+*.jpg
+*.jpeg
