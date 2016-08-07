@@ -1,13 +1,9 @@
 
 ## Installation
 
-##### Install
-
 ```bash
 pip install git+http://muteklab.com:9000/root/python-imgtool.git
 ```
-
-##### Uninstall
 
 ```bash
 pip uninstall imgtool
@@ -31,8 +27,6 @@ imgtool.round_image_each_corner(image, coordinations=(100, 50, 0, 0, 0, 0, 100, 
 ```
 
 ## Repository
-
-##### Cloning a repository
 
 ```bash
 git clone http://muteklab.com:9000/root/python-imgtool.git
