@@ -15,7 +15,7 @@ except ImportError:
 
 setup(
     name='imgtool',
-    version='0.1.0',
+    version='0.1.1',
     packages=['imgtool'],
     install_requires=['pillow'],
     author='Taehong Kim',
