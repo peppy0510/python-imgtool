@@ -2,7 +2,7 @@
 ## Installation
 
 ```bash
-pip install git+http://muteklab.com:9000/root/python-imgtool.git
+pip install git+http://east-control.com:9000/pockestra/python-imgtool.git
 ```
 
 ```bash
@@ -29,5 +29,5 @@ imgtool.round_image_each_corner(image, coordinations=(100, 50, 0, 0, 0, 0, 100, 
 ## Repository
 
 ```bash
-git clone http://muteklab.com:9000/root/python-imgtool.git
+git clone http://east-control.com:9000/pockestra/python-imgtool.git
 ```
