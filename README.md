@@ -2,7 +2,7 @@
 ## Installation
 
 ```bash
-pip install git+http://east-control.com:9000/pockestra/python-imgtool.git
+pip install git+http://git@github.com/peppy0510/python-imgtool.git
 ```
 
 ```bash
@@ -29,5 +29,5 @@ imgtool.round_image_each_corner(image, coordinations=(100, 50, 0, 0, 0, 0, 100, 
 ## Repository
 
 ```bash
-git clone http://east-control.com:9000/pockestra/python-imgtool.git
+git clone git@github.com:peppy0510/python-imgtool.git
 ```
